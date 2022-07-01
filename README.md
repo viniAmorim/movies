@@ -9,7 +9,7 @@ Simple app made with React Native for display movies consuming an api with axios
 First, clone the project
 
 ```bash
-git clone 
+git clone https://github.com/viniAmorim/movies.git
 ```
 
 then, enter the folder project and install the packages
